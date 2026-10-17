@@ -1,4 +1,4 @@
-# retail-sales-powerbi-dashboard
+# Retail-Sales-Powerbi-Dashboard
 Retail sales analysis and interactive dashboard built using Power BI
 Retail Sales Analysis Dashboard — Power BI
 
