@@ -31,6 +31,7 @@ Files Included
 
 - "Retail_Sales_Analysis.pbix" — Power BI dashboard file
 - "Retail Sales Dataset.xlsx" — Source dataset
+- "Dashboard Screenshots.png" _ Expected output of the interactive dashboard
 
 How to Use
 
